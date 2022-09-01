@@ -2,4 +2,4 @@
 
 #### My name is `Maga`!
 
-#### Im work in **Atom Developers Group.**
+#### Member of **Atom Developers Group.**
